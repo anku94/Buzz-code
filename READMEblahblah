@@ -1,0 +1,14 @@
+=========================================================================================================
+READ THIS - Ankush
+
+I'm assuming you've logged in to make changes to the portal schedule
+
+You should cd to /var/www/Buzz . Here lies the source code for the entire website.
+
+I've tried to be modular, and files for respective event schedules are - tech.html, cult.html, outdoor.html, misc.html. However, any changes to schedule of gaming events will have to be edited via index.php.
+
+Edit them using Vi/Vim and don't mess with my laptop.
+
+Cheers
+Ankush
+=========================================================================================================
